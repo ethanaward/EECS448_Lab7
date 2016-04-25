@@ -1,0 +1,5 @@
+Bugs:
+1. size() returns 1 greater than it should
+2. isEmpty() always returns false
+3. If the list is not empty, addBack() creates a node with the value of the first node of the list rather than with the value taken in
+4. removeFront() removes the back node rather than the front node
